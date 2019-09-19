@@ -2161,7 +2161,7 @@ expo-permissions@~6.0.0:
 
 "expo-toast@git+ssh://git@github.com:thomas-lin/expo-toast.git":
   version "1.0.0"
-  resolved "git+ssh://git@github.com:thomas-lin/expo-toast.git#f8e9d8404deabb455310abdce28a85ea643e78f5"
+  resolved "git+ssh://git@github.com:thomas-lin/expo-toast.git#2b3d089f51d856cc9a9c0b60ce763d7ea0f0b9c0"
 
 extend-shallow@^1.1.2:
   version "1.1.4"
