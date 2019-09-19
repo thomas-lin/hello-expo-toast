@@ -2159,7 +2159,7 @@ expo-permissions@~6.0.0:
   resolved "https://registry.yarnpkg.com/expo-permissions/-/expo-permissions-6.0.0.tgz#2943f1aa98de833b88cea73cf03d18d08957cb68"
   integrity sha512-O+RdyfGiq7i+5Vi9fE38DgKn436lNWiqhnS5/Z7CC00bmKahhjVMNDbZvNn/nrdRGyaPneJk1Co1s1sexSnv0A==
 
-"expo-toast@git+ssh://git@github.com:thomas-lin/expo-toast.git":
+"expo-toast@git+ssh://git@github.com:thomas-lin/expo-toast.git#1.0.0":
   version "1.0.0"
   resolved "git+ssh://git@github.com:thomas-lin/expo-toast.git#2b3d089f51d856cc9a9c0b60ce763d7ea0f0b9c0"
 

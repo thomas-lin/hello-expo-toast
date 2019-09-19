@@ -10,7 +10,7 @@
     "react": "16.8.3",
     "react-native": "0.59.10",
     "react-native-unimodules": "^0.5.4",
-    "expo-toast": "git+ssh://git@github.com:thomas-lin/expo-toast.git"
+    "expo-toast": "git+ssh://git@github.com:thomas-lin/expo-toast.git#1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
