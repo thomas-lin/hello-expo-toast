@@ -22,7 +22,6 @@ const instructions = Platform.select({
 type Props = {};
 export default class App extends Component<Props> {
   async componentDidMount(){
-    console.log(ExpoToast);
     ExpoToast.toastAsync({message:'Hello Maxwin'});
   }
 
